@@ -1,5 +1,5 @@
 # 3I005-Proba-Stats
-Anciens projets en Python de probabilité et de statistiques. 
+Anciens projets de probabilité et de statistiques en Python. 
 
 Projet 1 : Projet Exploration/Exploitation (simulation Bandit manchot / machine à sous + Joueur de Monte Carlo au morpion)
 
